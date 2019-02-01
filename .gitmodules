@@ -1,0 +1,12 @@
+[submodule "pack/vendor/start/vim-hybrid-material"]
+	path = pack/vendor/start/vim-hybrid-material
+	url = https://github.com/kristijanhusak/vim-hybrid-material
+[submodule "pack/vendor/start/vim-gitgutter"]
+	path = pack/vendor/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/vendor/start/vim-surround"]
+	path = pack/vendor/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/vendor/start/vim-python-pep8-indent"]
+	path = pack/vendor/start/vim-python-pep8-indent
+	url = https://github.com/Vimjas/vim-python-pep8-indent
